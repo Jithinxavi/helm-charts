@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: 2019-06-11T19:45:38.160631-07:00
+    description: Chart for the nginx server
+    digest: f311306376da229b87a60695b8a1d74fd422a65c29e9e48198aab50d2fd7b3ef
+    name: nginx
+    urls:
+    - https://github.com/Jithinxavi/helm-charts/nginx-3.3.2.tgz
+    version: 3.3.2
+generated: 2019-06-11T19:45:38.159762-07:00
